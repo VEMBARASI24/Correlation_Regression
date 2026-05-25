@@ -59,5 +59,6 @@ plt.legend(['Regression Line','Data points'])
 ```
 # Output 
 <img width="819" height="680" alt="image" src="https://github.com/user-attachments/assets/c65460da-2846-4624-ae33-729b0a24276a" />
+
 # Result
 Thus to analyse given data using coeffificient of correlation and regression line is executed successfully.
